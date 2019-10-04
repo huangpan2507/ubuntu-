@@ -9,3 +9,7 @@ https://www.e-learn.cn/content/linux/376881
 问题二：ubuntu无法进入tty
 按照网上教程，说什么ctrl + alt + fn可以进入，结果从ctrl + alt +f1 -f7都没有用，ctrl + alt +f1直接锁屏，其他直接黑屏。然后看贴子，说什么重启
 进入ubuntu高级设置，然后选择那个 grub 选择更新grub，然后哦resume normal 重启。发现分辨率变了，图标变大了。然后ctrl + alt + f2。3....可以进入tty
+wen't
+
+问题三：WIn10+Anaconda 环境下安装 PyTorch 避坑指南
+https://blog.csdn.net/red_stone1/article/details/86669362
